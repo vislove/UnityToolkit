@@ -1,0 +1,29 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Atlas/HelpAbout/HelpAbout.tpsheet
+- Assets/Atlas/ParentsCenter/ParentsCenter.tpsheet
+- Assets/Atlas/ShareWatermark/edu_ShareWatermark.tpsheet
+- Assets/Atlas/Study/Study.tpsheet
+- Assets/Atlas/Supplement/Supplement.tpsheet
+- Assets/Atlas/Template/Template.tpsheet
+- Assets/Atlas/TheMain/PrintFreeCourses.tpsheet
+- Assets/Atlas/TheMain/TheMain.tpsheet
+textureFileNames:
+- Assets/Atlas/HelpAbout/HelpAbout.png
+- Assets/Atlas/ParentsCenter/ParentsCenter.png
+- Assets/Atlas/ShareWatermark/edu_ShareWatermark.png
+- Assets/Atlas/Study/Study.png
+- Assets/Atlas/Supplement/Supplement.png
+- Assets/Atlas/Template/Template.png
+- Assets/Atlas/TheMain/PrintFreeCourses.png
+- Assets/Atlas/TheMain/TheMain.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
