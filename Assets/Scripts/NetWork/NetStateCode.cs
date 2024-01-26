@@ -18,13 +18,13 @@ public class NetStateCode
    /// <summary>
    /// 请求成功
    /// </summary>
-   public const int CODE_0000 = 200;
+   public const int CODE_200 = 200;
    /// <summary>
    /// 请求失败
    /// </summary>
-   public const int CODE_0400 = 400;
+   public const int CODE_400 = 400;
 
-   public const int CODE_0401 = 401;
-   public const int CODE_0500 = 500;
-   public const int CODE_0405 = 405;
+   public const int CODE_401 = 401;
+   public const int CODE_500 = 500;
+   public const int CODE_405 = 405;
 }
